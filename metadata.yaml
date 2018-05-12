@@ -1,0 +1,40 @@
+_repo: Der-Todesgru--der-Legionen-3.-Band_13659
+_version: 0.1.0
+alternative_title: Todesgruss der Legionen, 3. Band
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Samarow, Gregor
+    aliases:
+    - Geyern, Detlev von
+    - Walfeldt, Kurt von
+    - Meding, Johann Ferdinand Martin Oskar
+    - Morgan, Walter
+    - Meding, Oskar
+    - Samarov, Georg
+    - Warren, Leo
+    birthdate: 1829
+    deathdate: 1903
+    gutenberg_agent_id: '5150'
+    url: http://www.gutenberg.org/2009/agents/5150
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2004-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13659'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prussia (Germany) -- History -- 1815-1870 -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Georg V, King of Hannover, 1819-1878 -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Hannover (Germany : Province) -- History -- Fiction'
+- !lcc 'DD'
+title: Der Todesgruß der Legionen, 3. Band
+url: http://www.gutenberg.org/ebooks/13659
