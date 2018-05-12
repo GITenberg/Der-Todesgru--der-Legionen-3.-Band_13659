@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '5150'
     url: http://www.gutenberg.org/2009/agents/5150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13659#Der-Todesgru--der-Legionen-3.-Band
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2004-10-06'
 gutenberg_type: Text
